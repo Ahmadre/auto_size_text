@@ -2,6 +2,8 @@
 
 [![Travis](https://img.shields.io/travis/com/leisim/auto_size_text/master.svg)](https://travis-ci.com/leisim/auto_size_text) [![codecov](https://codecov.io/gh/leisim/auto_size_text/branch/master/graph/badge.svg)](https://codecov.io/gh/leisim/auto_size_text) [![Version](https://img.shields.io/pub/v/auto_size_text.svg)](https://pub.dev/packages/auto_size_text) ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)
 
+## ONLY FOR FLUTTER WEB
+
 Flutter widget that automatically resizes text to fit perfectly within its bounds.
 
 **Show some ❤️ and star the repo to support the project**
